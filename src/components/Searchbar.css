@@ -1,0 +1,8 @@
+.searchbar form{
+    /* display: flex; */
+    align-items: center;
+    grid-area: search;
+}
+.searchbar input{
+    /* margin-right: 10px; */
+}
